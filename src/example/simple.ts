@@ -1,7 +1,7 @@
 /**
- * glo.ts
+ * simple.ts
  * 
- * Exemples simples d'usage de la librairie
+ * Exemples simples, d'usage de la librairie
  */
 
 import { glo } from "../logger/logger";

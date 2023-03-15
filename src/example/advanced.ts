@@ -1,3 +1,9 @@
+/**
+ * simple.ts
+ * 
+ * Exemples avancés d'usage de la librairie
+ */
+
 import fs from "fs";
 import dayjs from "dayjs";
 import { GlobalLogger, glo } from "../logger/logger";
